@@ -1,6 +1,6 @@
 RL key ingredients
 MDPs, trajectories, samples, value functions, policies, illustrating examples.
-1h30
+2h
   intro 10 min
   V2G example 20 minutes
   From plain words to first variables 15 minutes
@@ -8,8 +8,8 @@ MDPs, trajectories, samples, value functions, policies, illustrating examples.
 
 Dynamic programming and value-based RL
 Dynamic programming, value iteration, DQN, opening to SAC
-1h30
+2h
 
 Policy gradients
 PI theorem, PG theorem, REINFORCE, A2C, opening to PPO
-1h30
+2h
