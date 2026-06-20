@@ -1,3 +1,14 @@
+
+0 - Préamble, a V2G problem
+9h-9h30 (25 minutes + questions and problem solving)
+
+1 - MDPs, value functions and policies
+9h30-10h30
+
+2 - 
+10h45-12h15
+
+
 RL key ingredients
 MDPs, trajectories, samples, value functions, policies, illustrating examples.
 2h
