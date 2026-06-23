@@ -134,3 +134,8 @@ slides
 
 # Notebook videos
 notebooks/videos
+videos
+
+# EV2GYM results
+replay
+results
